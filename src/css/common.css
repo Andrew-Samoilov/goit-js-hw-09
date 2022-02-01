@@ -16,3 +16,10 @@ img {
   display: block;
   max-width: 100%;
 }
+
+button {
+  cursor: pointer;
+  border-radius: 5px;
+  font-size: 32px;
+  padding: 5px 10px;
+}

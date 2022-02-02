@@ -34,10 +34,9 @@ function convertMs(ms) {
 function updateTimer(){
     refs.timerFieldDay.textContent=19;
     refs.timerFieldDay.textContent=33;
-    refs.timerFieldHour.textContent=05;
+    refs.timerFieldHour.textContent=5;
     refs.timerFieldMin.textContent=12;
     refs.timerFieldSec.textContent=4;
-
 }
 
 console.log(convertMs(2000)); // {days: 0, hours: 0, minutes: 0, seconds: 2}

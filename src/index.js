@@ -1,2 +1,2 @@
 import './sass/main.scss';
-console.log('222');
+console.log('import js');

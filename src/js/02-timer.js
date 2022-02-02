@@ -1,4 +1,4 @@
-console.log(`77`);
+console.log(`666`);
 let refs = {
   startBtn: document.querySelector('button[data-start]'),
   timerFieldDay: document.querySelector(`[data-days]`),

@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.js"],"names":["console","log"],"mappings":";;;AACA,aADA,QAAA,oBACAA,QAAQC,IAAI","file":"src.1b95d2fe.js","sourceRoot":"../src","sourcesContent":["import './sass/main.scss';\nconsole.log('import scss in js');\n"]}

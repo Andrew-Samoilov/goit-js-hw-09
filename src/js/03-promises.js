@@ -1,4 +1,4 @@
-console.log(`777`);
+console.log(`7777777`);
 import Notiflix from 'notiflix';
 const refs = {
   formY: document.querySelector('.form'),
@@ -17,7 +17,7 @@ function createPromise(position, delay) {
         resolve({ position, delay });
       }
       reject({ position, delay });
-    }, delay);
+    }, delay);yy
   });
 }
 
